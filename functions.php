@@ -27,5 +27,3 @@
 
 
 
-Username #trackerapitest
-Password #Test12345!
